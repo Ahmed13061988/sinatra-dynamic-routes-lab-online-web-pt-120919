@@ -42,7 +42,4 @@ class App < Sinatra::Base
       @answer += "#{@number_1/@number_2}"
       @answer
     end
-
-   
-     
 end
